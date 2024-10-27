@@ -5,7 +5,7 @@
 ##
 
 <a href="https://discord.com/users/921097357305724999">
-  <img src="https://discord.c99.nl/widget/theme-4/921097357305724999.png"/>
+  <img src="https://discord.c99.nl/widget/theme-1/921097357305724999.png"/>
 </a>
 
 ##
