@@ -1,4 +1,4 @@
-![Profile Visits](https://komarev.com/ghpvc/?username=indeedVC&color=blue&label=Profile-Visits&width=26px)
+![Profile Visits](https://komarev.com/ghpvc/?username=indeedVC&color=blue&label=Profile%20Views&width=26px)
 
 <a href="https://discord.com/users/921097357305724999">
   <img src="https://discord.c99.nl/widget/theme-1/921097357305724999.png"/>
